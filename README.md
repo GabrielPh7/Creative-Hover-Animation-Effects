@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Sidebar" />
+  <img src="./fluid.gif" alt="Sidebar" />
 
   &#xa0;
 
